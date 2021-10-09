@@ -16,4 +16,5 @@ with the pythagorean theorem, where c is 100vw or 100vh whichever is smaller. if
 `max-width = sqrt(100^2/2)vw; 
 max-height = sqrt(100^2/2)vh;`)
 
-I don't really know what else to say because 
+I don't really know what else to say because I can't see the source code.
+The website does look good (better than mine) but i can't tell how good the code is. (also if you need another dnd player at any point im down).
